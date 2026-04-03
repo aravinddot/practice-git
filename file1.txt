@@ -1,2 +1,2 @@
-main branch updated as new
+create conflict in local as new
 new text
